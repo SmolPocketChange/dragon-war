@@ -1,0 +1,15 @@
+Instructions for Dragon War:
+	Controls:
+		Up = Up arrow key
+		Down = Down arrow key
+		Left = Left arrow key
+		Right = Right arrow key
+		Breathe fire = Space bar  
+PowerUps:
+	Green Star PowerUp: Doubles the number of fireballs you shoot.
+	Red Star Powerup: Increases health by one point.
+	Meteor Powerup: Makes you invincible for five seconds.
+
+
+
+Goal is to kill what you see on the screen.
