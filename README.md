@@ -1,6 +1,6 @@
 ## Welcome to Dragon War
 
-You can use the [editor on GitHub](https://github.com/SmolPocketChange/dragon-war/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here is a game on dragons. The goal is to shoot down the enemy dragons you see so that you can win.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -41,5 +41,3 @@ PowerUps:
 - Green Star PowerUp: Doubles the number of fireballs you shoot.
 - Red Star Powerup: Increases health by one point.
 - Meteor Powerup: Makes you invincible for five seconds.
-
-The goal is to kill the enemy dragons you see on the screen.
