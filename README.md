@@ -28,6 +28,22 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Instructions
+
+Controls:
+	Up = Up arrow key
+	Down = Down arrow key
+	Left = Left arrow key
+	Right = Right arrow key
+	Breathe fire = Space bar 
+  
+PowerUps:
+	Green Star PowerUp: Doubles the number of fireballs you shoot.
+	Red Star Powerup: Increases health by one point.
+	Meteor Powerup: Makes you invincible for five seconds.
+
+The goal is to kill the enemy dragons you see on the screen.
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SmolPocketChange/dragon-war/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
