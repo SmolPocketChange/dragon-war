@@ -6,7 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Backstory
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	It's a dragon war! You, the child of the dragon king, have worked your 
+whole life to train to become the next ruler of The Kingdom of Prism. However, 
+the day comes when you are finally tested as dragons from the Kingdom of Igneous 
+attack Prism, kidnap your father, and steal the Refrator- an ancient and powerful 
+sphere which keeps Prism afloat in the sky. Travel far and wide battling dragons 
+and other winged creatures as travel to The Kingdom of Igneous, where you shall 
+rescue your father, reclaim the Refractor, and kill the King of Igneous.
 
 ```markdown
 Syntax highlighted code block
@@ -31,23 +37,15 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Instructions
 
 Controls:
-	Up = Up arrow key
-	Down = Down arrow key
-	Left = Left arrow key
-	Right = Right arrow key
-	Breathe fire = Space bar 
+- Up = Up arrow key
+- Down = Down arrow key
+- Left = Left arrow key
+- Right = Right arrow key
+- Breathe fire = Space bar 
   
 PowerUps:
-	Green Star PowerUp: Doubles the number of fireballs you shoot.
-	Red Star Powerup: Increases health by one point.
-	Meteor Powerup: Makes you invincible for five seconds.
+- Green Star PowerUp: Doubles the number of fireballs you shoot.
+- Red Star Powerup: Increases health by one point.
+- Meteor Powerup: Makes you invincible for five seconds.
 
 The goal is to kill the enemy dragons you see on the screen.
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SmolPocketChange/dragon-war/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
