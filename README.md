@@ -8,9 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 It's a dragon war! You, the child of the dragon king, have worked your whole life to train to become the next ruler of The Kingdom of Prism. However, the day comes when you are finally tested as dragons from the Kingdom of Igneous attack Prism, kidnap your father, and steal the Refrator- an ancient and powerful sphere which keeps Prism afloat in the sky. Travel far and wide battling dragons and other winged creatures as travel to The Kingdom of Magnite, where you shall rescue your father, reclaim the Refractor, and kill the King Igneous.
 
-```markdown
 ![In-game Screenshot](https://raw.githubusercontent.com/SmolPocketChange/dragon-war/master/assets/images/assets/images/dragon_war_screenshot.png)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
