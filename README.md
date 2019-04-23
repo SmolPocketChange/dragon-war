@@ -27,3 +27,6 @@ PowerUps:
 - Green Star PowerUp: Doubles the number of fireballs you shoot.
 - Red Star Powerup: Increases health by one point.
 - Meteor Powerup: Makes you invincible for five seconds.
+
+###Credits:
+Dragon image animations have been edited by me, original images from OpenGameArt. Clouds are from open game art as well and background images are from Google.
